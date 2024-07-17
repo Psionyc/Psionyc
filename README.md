@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Gaming and Design...
 - 📫 How to reach me sione.xy@gmail.com & https://twitter.com/Ione_xy...
 
-[![My Skills](https://skillicons.dev/icons?i=js,tailwind,wasm,nextjs,vue,nuxtjs,figma,godot,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,tailwind,flutter,wasm,nextjs,vue,nuxtjs,figma,godot,tauri,rust,bun)](https://skillicons.dev)
 
 <!---
 Psionyc/Psionyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
