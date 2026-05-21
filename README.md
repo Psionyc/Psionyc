@@ -12,7 +12,7 @@ I’m a fullstack developer focused on fintech, blockchain infrastructure, mobil
 * Design: Figma, UI/UX
 * AI Tooling: Claude, Codex
 * Other interests: Gaming, Security Research, DevOps
-* 
+  
 ### 🧠 AI Stack
 
 * Claude
