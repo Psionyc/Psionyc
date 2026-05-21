@@ -12,6 +12,12 @@ I’m a fullstack developer focused on fintech, blockchain infrastructure, mobil
 * Design: Figma, UI/UX
 * AI Tooling: Claude, Codex
 * Other interests: Gaming, Security Research, DevOps
+* 
+### 🧠 AI Stack
+
+* Claude
+* Codex
+
 
 ## 🌱 Currently exploring
 
@@ -28,10 +34,6 @@ Blockchain products, fintech tools, developer infrastructure, gaming projects, a
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,elysia,nodejs,bun,flutter,ts,js,rust,solidity,docker,postgres,redis,tailwind,figma,tauri,wasm,git,github,linux,godot)](https://skillicons.dev)
 
-### 🧠 AI Stack
-
-* Claude
-* Codex
 
 <!---
 Psionyc/Psionyc is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
