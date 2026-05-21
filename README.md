@@ -26,7 +26,7 @@ Blockchain products, fintech tools, developer infrastructure, gaming projects, a
 * Email: [psyone@psyone.dev](mailto:psyone@psyone.dev)
 * Twitter/X: https://twitter.com/Ione_xy
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,elysia,codex,claude,nodejs,bun,flutter,ts,js,rust,solidity,docker,postgres,redis,tailwind,figma,tauri,wasm,git,github,linux,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,elysia,nodejs,bun,flutter,ts,js,rust,solidity,docker,postgres,redis,tailwind,figma,tauri,wasm,git,github,linux,godot)](https://skillicons.dev)
 
 ### 🧠 AI Stack
 
