@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Psionyc
-- 👀 I’m interested in Gaming, Blockchain , Front/Backend and Design ...
-- 🌱 I’m currently learning Vue Js...
-- 💞️ I’m looking to collaborate on Gaming and Design...
-- 📫 How to reach me sione.xy@gmail.com & https://twitter.com/Ione_xy...
+# 👋 Hey, I’m @Psionyc
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,elysia,flutter,js,ts,docker,tailwind,wasm,figma,godot,rust,tauri,bun)](https://skillicons.dev)
+I’m a fullstack developer focused on fintech, blockchain infrastructure, mobile apps, backend systems, and product design.
+
+## 🚀 What I work with
+
+* Frontend: Next.js, Nuxt, Vue, React Native
+* Backend: Node.js, Bun, Elysia
+* Mobile: Flutter, Expo
+* Blockchain: Solidity, Solana, Web3 Infrastructure
+* Systems: Docker, Rust, Tauri
+* Design: Figma, UI/UX
+* AI Tooling: Claude, Codex
+* Other interests: Gaming, Security Research, DevOps
+
+## 🌱 Currently exploring
+
+Rust internals, Solana development, security research, low-level systems, and scalable realtime infrastructure.
+
+## 🤝 Open to collaborate on
+
+Blockchain products, fintech tools, developer infrastructure, gaming projects, and ambitious startup ideas.
+
+## 📫 Reach me
+
+* Email: [psyone@psyone.dev](mailto:psyone@psyone.dev)
+* Twitter/X: https://twitter.com/Ione_xy
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,elysia,codex,claude,nodejs,bun,flutter,ts,js,rust,solidity,docker,postgres,redis,tailwind,figma,tauri,wasm,git,github,linux,godot)](https://skillicons.dev)
+
+### 🧠 AI Stack
+
+* Claude
+* Codex
+
+<!---
+Psionyc/Psionyc is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
+
 
 <!---
 Psionyc/Psionyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
